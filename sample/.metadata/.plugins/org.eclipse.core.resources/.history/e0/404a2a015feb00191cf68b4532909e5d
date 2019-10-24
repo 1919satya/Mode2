@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form >
+<div class="container">
+<table border="1" align="center" width="400" bgcolor="purple" >
+  
+  <tr>
+    <th>Signup</th><br/><br/>
+    
+   <th><input type="text" placeholder="Enter First Name" ></th><br/><br/>
+   </tr>
+   
+   <tr>
+    <th><input type="text" placeholder="Enter Last Name" ></td> <br/><br/>
+    </tr>
+    
+    <tr>
+    
+   <th><input type="text" placeholder="Enter Email" ></th> <br/><br/>
+   </tr>
+
+<tr>
+    
+    <th><input type="password" placeholder="Enter Password" ></th> <br/><br/>
+    </tr>
+    
+    
+   <tr>
+   <center>
+    <td><button type="submit" class="registerbtn">Register</button>
+    </center>
+    </tr>
+    
+  </div>
+
+  <div class="container signin">
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
+  </div>
+</form>
+</table>
+</body>
+</html>

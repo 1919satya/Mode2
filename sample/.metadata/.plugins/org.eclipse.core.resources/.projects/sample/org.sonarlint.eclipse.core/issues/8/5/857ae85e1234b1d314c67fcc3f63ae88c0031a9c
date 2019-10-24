@@ -1,0 +1,20 @@
+
+[	Web:S1827")Remove this deprecated "align" attribute.(¥°¦¢8¢½­Û-HØ
+RMAJORZ
+CODE_SMELL
+[	Web:S1827")Remove this deprecated "width" attribute.(¥°¦¢8¢½­Û-HÙ
+RMAJORZ
+CODE_SMELL
+^Web:TableWithoutCaptionCheck" Add a description to this table.(¥°¦¢8¢½­Û-HÚ
+RMINORZBUG
+b	Web:S1827"+Remove this deprecated "bgcolor" attribute.(†‹ı”øÿÿÿÿ8ùû€®Û-HÛ
+RMAJORZ
+CODE_SMELL
+‚ Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(’³ıÎúÿÿÿÿ8Œ‡Ê­Û-HÜ
+RMAJORZBUG
+‚ Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ûéú»ÿÿÿÿÿ8Œ‡Ê­Û-Hİ
+RMAJORZBUG
+i	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿHŞ
+RMAJORZBUG
+| Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(…ÖÚU8Œ‡Ê­Û-Hß
+RMAJORZBUG

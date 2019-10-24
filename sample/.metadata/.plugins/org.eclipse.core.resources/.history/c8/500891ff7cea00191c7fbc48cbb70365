@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form >
+<div class="container">
+<table border="1" align="center" width="400" bgcolor="#CCCCCC" >
+  
+  <tr>
+    <caption>Register</caption>
+    <th>First Name :</th>
+   <td><input type="text" placeholder="Enter First Name" name="firstName"  required></td><br/><br/>
+   </tr>
+   
+   <tr>
+    <th>Last Name :</th>
+    <td><input type="text" placeholder="Enter Last Name" name="lastName" required></td> <br/><br/>
+    </tr>
+    
+    <tr>
+    <th>Email :</th>
+   <td><input type="text" placeholder="Enter Email" name="email" required></td> <br/><br/>
+   </tr>
+
+<tr>
+    <th>Password :</th>
+    <td><input type="password" placeholder="Enter Password" name="psw" required></td> <br/><br/>
+    </tr>
+    
+    <tr>
+    <th>Confirm Password :</th>
+    <td><input type="password" placeholder="Confirm Password" name="psw-repeat" required></td> <br/><br/>
+   
+    <button type="submit" class="registerbtn">Register</button>
+  </div>
+
+  <div class="container signin">
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
+  </div>
+</form>
+</table>
+</body>
+</html>

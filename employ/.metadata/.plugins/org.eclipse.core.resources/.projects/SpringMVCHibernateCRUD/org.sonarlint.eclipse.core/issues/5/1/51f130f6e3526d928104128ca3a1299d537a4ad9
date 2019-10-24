@@ -1,0 +1,10 @@
+
+i	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿH÷RMAJORZBUG
+T	Web:S1827")Remove this deprecated "align" attribute.(òå„ëHøRMAJORZ
+CODE_SMELL
+WWeb:TableWithoutCaptionCheck" Add a description to this table.(Ã˜€ÊHùRMINORZBUG
+{ Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ûéú»ÿÿÿÿÿHúRMAJORZBUG
+v Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(æËİâHûRMAJORZBUG
+v Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¼ıí¬HüRMAJORZBUG
+{ Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ô­³ïüÿÿÿÿHıRMAJORZBUG
+{ Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¼¡™¬ÿÿÿÿÿHşRMAJORZBUG

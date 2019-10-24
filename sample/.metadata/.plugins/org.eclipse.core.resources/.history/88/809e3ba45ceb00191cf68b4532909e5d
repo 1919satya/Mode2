@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="">
+ <table border="1" align="center" width="400" bgcolor="skyblue">
+ 
+ <tr>
+   
+    <th>Id</th>
+    <th>Name</th>
+    <th>Major</th>
+ </tr>
+ <tr>
+   
+    <td>1001</td>
+    <td>Satya</td>
+    <td>Physics</td>
+ </tr>
+   <tr>
+   
+    <td>1002</td>
+    <td>Sai</td>
+    <td>Chemistry</td>
+ </tr>
+ <tr>
+   
+    <td>1003</td>
+    <td>Satish</td>
+    <td>Physics</td>
+ </tr>
+ <tr>
+   
+    <td>1004</td>
+    <td>Nagendra</td>
+    <td>English</td>
+ </tr>
+ <tr>
+   
+    <td>1005</td>
+    <td>Vinod</td>
+    <td>Telugu</td>
+ </tr>
+ 
+ </table>
+</form>
+</body>
+</html>

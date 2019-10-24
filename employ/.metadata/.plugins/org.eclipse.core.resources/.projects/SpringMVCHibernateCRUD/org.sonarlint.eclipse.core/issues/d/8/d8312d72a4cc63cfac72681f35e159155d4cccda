@@ -1,0 +1,15 @@
+
+usquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ÿ‹ﬁàˇˇˇˇˇHÔRBLOCKERZVULNERABILITY
+∏%squid:RedundantThrowsDeclarationCheck "lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Œ—É•ˇˇˇˇˇHRMINORZ
+CODE_SMELL
+usquid:S4488'"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(—Ñ…ˇHÒRMINORZ
+CODE_SMELL
+ssquid:S46840"@Replace this persistent entity with a simple POJO or DTO object.(£¨èÏHÚRCRITICALZVULNERABILITY
+wsquid:S4488/"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(„‚∫°HÛRMINORZ
+CODE_SMELL
+usquid:S4488:"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(üÏΩœHÙRMINORZ
+CODE_SMELL
+usquid:S4488A"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†ò”†HıRMINORZ
+CODE_SMELL
+Wsquid:S1068"*Remove this unused "logger" private field.(ß£à„HˆRMAJORZ
+CODE_SMELL
